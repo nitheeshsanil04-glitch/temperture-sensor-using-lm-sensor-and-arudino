@@ -26,6 +26,8 @@ increases, LEDs turn ON one by one.
 2. Click Start Simulation
 3. Adjust LM35 temperature slider
 4. Observe LED indication
+## Tinkercad Simulation
+https://www.tinkercad.com/things/5xGULP5wcHv-temperture-sensor-for-beginner-?sharecode=undefined
 
 ## Applications
 - Temperature monitoring
