@@ -14,7 +14,7 @@ increases, LEDs turn ON one by one.
 - Jumper Wires
 
 ## Circuit Diagram
-(Will be added)
+![Circuit Diagram](circuit.png)
 
 ## Working Principle
 - LM35 outputs 10 mV per °C
